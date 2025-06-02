@@ -11,13 +11,11 @@
 
 ## Deskripsi Soal
 Diberikan sistem persamaan linear berikut:  
-\[
-\begin{cases}
-5a_0 + 25a_1 + 135a_2 = 485 \\
-25a_0 + 135a_1 + 775a_2 = 2785 \\
-135a_0 + 775a_1 + 4659a_2 = 16751
-\end{cases}
-\]  
+
+5 a0      + 25 a1      + 135 a2     = 485
+25 a0     + 135 a1     + 775 a2     = 2785
+135 a0    + 775 a1     + 4659 a2    = 16751
+
 Tugas adalah mencari nilai \(a_0\), \(a_1\), dan \(a_2\) menggunakan **metode Gauss-Seidel** dengan melakukan iterasi hingga iterasi ke-2. Setiap nilai \(a_0\), \(a_1\), dan \(a_2\) pada tiap iterasi harus ditampilkan.
 
 ---
