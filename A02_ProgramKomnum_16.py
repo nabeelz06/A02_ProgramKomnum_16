@@ -1,6 +1,6 @@
 # Tugas Mata Kuliah Komputasi Numerik: Implementasi Metode Gauss-Seidel dalam Bahasa Python (Soal Nomor 16)
 
-# Kelompok a02 - Komputasi Numerik m
+# Kelompok a02 - Komputasi Numerik
 
 # Anggota Kelompok:
 # 1. Nama: Farrel Aqilla Novianto          - NRP: 5025241015
