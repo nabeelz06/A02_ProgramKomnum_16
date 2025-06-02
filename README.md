@@ -38,6 +38,7 @@ gauss_seidel(2)
 
 ## Output:
 Iterasi 1: a0 = 97.00, a1 = 2.67, a2 = 0.34
+
 Iterasi 2: a0 = 74.46, a1 = 4.88, a2 = 0.63
 
 ---
