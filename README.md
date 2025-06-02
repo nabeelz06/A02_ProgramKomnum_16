@@ -1,11 +1,11 @@
 # Tugas Mata Kuliah Komputasi Numerik: Implementasi Metode Gauss-Seidel dalam Bahasa Python (Soal Nomor 16)
 
 ## Anggota Kelompok:
-1. **Farrel Aqilla Novianto**              - NRP: 5025241015  
-2. **Muhammad Nabil Fauzan**               - NRP: 5025241024  
-3. **Himawan Rakha Badra**                 - NRP: 5025241028  
-4. **Vityaz Ali Firdaus**                  - NRP: 5025241050  
-5. **Raden Kurniawan Agung Fitrianto**     - NRP: 5025241104  
+1. **Farrel Aqilla Novianto**              >- NRP: 5025241015  
+2. **Muhammad Nabil Fauzan**               >- NRP: 5025241024  
+3. **Himawan Rakha Badra**                 >- NRP: 5025241028  
+4. **Vityaz Ali Firdaus**                  >- NRP: 5025241050  
+5. **Raden Kurniawan Agung Fitrianto**     >- NRP: 5025241104  
 
 ---
 
@@ -18,7 +18,7 @@ Diberikan sistem persamaan linear berikut:
 
 135 a0   + 775 a1    + 4659 a2    = 16751
 
-Tugas adalah mencari nilai a0, a1, dan a2 menggunakan **metode Gauss-Seidel** dengan melakukan iterasi hingga iterasi ke-2. Setiap nilai \(a_0\), \(a_1\), dan \(a_2\) pada tiap iterasi harus ditampilkan.
+Tugas adalah mencari nilai a0, a1, dan a2 menggunakan **metode Gauss-Seidel** dengan melakukan iterasi hingga iterasi ke-2. Setiap nilai a0, a1, dan a2 pada tiap iterasi harus ditampilkan.
 
 ---
 
