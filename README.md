@@ -34,6 +34,7 @@ def gauss_seidel(iterations):
 
 gauss_seidel(2)
 ```
+
 ---
 
 ## Output:
