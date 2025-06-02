@@ -18,7 +18,7 @@ Diberikan sistem persamaan linear berikut:
 
 135 a0   + 775 a1    + 4659 a2    = 16751
 
-Tugas adalah mencari nilai \(a_0\), \(a_1\), dan \(a_2\) menggunakan **metode Gauss-Seidel** dengan melakukan iterasi hingga iterasi ke-2. Setiap nilai \(a_0\), \(a_1\), dan \(a_2\) pada tiap iterasi harus ditampilkan.
+Tugas adalah mencari nilai a0, a1, dan a2 menggunakan **metode Gauss-Seidel** dengan melakukan iterasi hingga iterasi ke-2. Setiap nilai \(a_0\), \(a_1\), dan \(a_2\) pada tiap iterasi harus ditampilkan.
 
 ---
 
